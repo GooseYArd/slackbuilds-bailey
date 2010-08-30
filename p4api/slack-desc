@@ -6,14 +6,14 @@
 # customary to leave one space after the ':'.
 
      |-----handy-ruler------------------------------------------------------|
-audit: audit (Linux Kernel Audit Framework)
-audit:
-audit: The audit package contains the user space utilities for storing and
-audit: searching the audit records generate by the audit subsystem in the 
-audit: Linux 2.6 kernel. 
-audit:
-audit: The audit subsystem, which is not enabled in stock Slackware kernels
-audit: must be enabled and the kernel rebuilt in order to use auditd
-audit:
-audit:
-audit:
+p4api: p4api (short description of app)
+p4api:
+p4api: The Perforce C/C++ API allows you to write your own Perforce tools 
+p4api: in C++. It provides you with the same interface that is used by all
+p4api: of the Perforce client programs (P4, P4V, P4Web, and the Perforce IDE 
+p4api: Plug-ins).
+p4api:
+p4api:
+p4api:
+p4api:
+p4api:

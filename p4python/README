@@ -1,0 +1,7 @@
+p4python for Slackware
+
+This SBo requires the p4api SBo to build.
+
+Docs are available at:
+
+http://www.perforce.com/perforce/doc.current/manuals/p4script/index.html
