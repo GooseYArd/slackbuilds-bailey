@@ -1,0 +1,18 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+       |-----handy-ruler------------------------------------------------------|
+pam_pkcs11: pam_pkcs11 (Allows a X.509 certificate based user login)
+pam_pkcs11: 
+pam_pkcs11: The certificate and its dedicated private key are thereby accessed
+pam_pkcs11: by means of an appropriate PKCS #11 module. For the verification
+pam_pkcs11: of the users' certificates, locally stored CA certificates as well 
+pam_pkcs11: as either online or locally accessible CRLs are used
+pam_pkcs11:
+pam_pkcs11:
+pam_pkcs11:
+pam_pkcs11:
