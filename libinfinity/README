@@ -1,0 +1,7 @@
+libinfinity.Slackbuild, Andy Bailey <bailey@akamai.com>
+
+This is a Slackbuild script for libinfinity, which provides an
+implementation of the Infinote protocol, used by collaborative editing
+programs like Gobby and Kobby.
+
+You'll need to install the libgsasl Slackbuild to create this package.

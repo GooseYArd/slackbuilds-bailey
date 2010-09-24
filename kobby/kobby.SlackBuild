@@ -1,8 +1,12 @@
 #!/bin/sh
 
 # Slackware build script for <appname>
-
 # Written by (your name) (your contact information)
+
+# dependencies:
+# libqinfinity
+#  libinfinity
+#   libgsasl
 
 PRGNAM=kobby
 PKGVER=`basename $PRGNAME*gz .tar.gz | cut -d- -f2`

@@ -1,0 +1,8 @@
+libqinfinity.Slackbuild, Andy Bailey <bailey@akamai.com>
+
+This is a Slackbuild script for libqinfinity, a Qt-style interface to
+libinfinity, used by Kobby.
+
+You'll need to install the libinfinity Slackbuild to create this
+package. libinfinity also requires libgsasl, so if you're fetching SBo
+dependencies, get that one, too.
