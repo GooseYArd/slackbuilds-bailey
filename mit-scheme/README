@@ -1,0 +1,20 @@
+MIT/GNU Scheme Slackbuild
+
+From the website:
+
+ "MIT/GNU Scheme is an implementation of the Scheme programming
+  language, providing an interpreter, compiler, source-code debugger,
+  integrated Emacs-like editor, and a large runtime library. MIT/GNU
+  Scheme is best suited to programming large applications with a rapid
+  development cycle."
+
+This package was interesting to me because I've been playing along
+with the Opencourseware version of MIT's Structure and Interpretation
+of Computer Programs course, available at:
+
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/
+
+Both the Scheme machine and the Edwin editor (a much older version of
+which is used in the videos) are included in the package.
+
+Have fun!

@@ -1,0 +1,11 @@
+kobby.Slackbuild, bailey@akamai.com
+
+This is a Slackbuild for kobby, a collaborative editor for KDE,
+similar to gobby.
+
+To build this package will require libqinfinity, libinfinity, and
+libgsasl, all available from SBo.
+
+Note: the "inifinoted" daemon, required for collaborative sessions, is
+included with the libinfinity Slackbuild.
+
